@@ -1,0 +1,19 @@
+th:nth-child(2n) {
+    background-color: rgba(81, 81, 225, 0.932);
+}
+
+tr:nth-child(2n) {
+    background-color: rgb(168, 157, 157);
+}
+
+body  {
+    background-color: rgb(190, 190, 252);
+}
+
+h1 {
+    color: white;
+}
+
+td {
+    text-align: center;
+}
